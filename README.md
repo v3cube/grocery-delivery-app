@@ -1,5 +1,8 @@
 # instacart-clone
-In a market flooded with mediocre taxi apps, the Instacart Clone Grocery Delivery App is a breath of fresh air. Custom created to ensure that is most suited for the smart entrepreneur of 2020, this app comes loaded with some of the top features that the industry can ask for. Our Instacart Clone Grocery Delivery App is fitted with many advanced features curated by a team of expert market behavior and business analysts and developed by expert Android, iOS and PHP developers. 
+In a market flooded with mediocre taxi apps, the Instacart Clone Grocery Delivery App is a breath of fresh air. Custom created to ensure that is most suited for the smart entrepreneur of 2020, this app comes loaded with some of the top features that the industry can ask for.
+
+Our Instacart Clone Grocery Delivery App is fitted with many advanced features curated by a team of expert market behavior and business analysts and developed by expert Android, iOS and PHP developers. 
+
 Here’s a window to peek into some of the most coveted features that are app comes equipped with:
 •	One Touch Download from both Google Play Store and iOS App Store
 •	Quick and seamless log in facility for the User as well as the Delivery Driver and the Grocery Store from their individual apps
