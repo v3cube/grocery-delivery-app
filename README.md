@@ -22,7 +22,7 @@ Here’s a window to peek into some of the most coveted features that are app co
 •	Not only do we offer you the Instacart Clone Grocery Delivery app, we also ensure to launch the app for you absolutely free. Apart from this, the app is also set up and configured to the system of the platform.
 
 •	To ensure that our app can help your business in the world, we also empower the customer to choose the language and the currency of their preference so that the app can be launched and used seamlessly in their region. 
-For more details, take a look here https://www.v3cube.com/grocery-delivery-app-clone/and kick start your new business. 
+For more details, take a look here https://www.v3cube.com/grocery-delivery-app-clone/ and kick start your new business. 
 
 •	To know more about the flow of the app, here’s a graphical flow of the app https://www.v3cube.com/grocery-apps-graphical-flow
 •	We have also created different package bundles for the app. 
