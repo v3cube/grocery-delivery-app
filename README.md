@@ -9,7 +9,7 @@ Here’s a window to peek into some of the most coveted features that are app co
 
 •	Quick and seamless log in facility for the User as well as the Delivery Driver and the Grocery Store from their individual apps
 
-•	Each component of the app, User app, Delivery Driver App, Store App, Website and the Admin Panel of the app come with their own bundles of facilities and features unlike many common alternatives in the market. 
+•	Each component of the app, User app, Delivery Driver App, Store App, Website and the Admin Panel of the app come with their own bundles of facilities and features unlike many V3cube alternatives in the market. 
 
 •	Designed to be responsive, the website works flawlessly across all popular gadgets including smart phones, Android, iPads and iPhones.
 
