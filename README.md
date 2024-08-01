@@ -1,5 +1,5 @@
 # Grocery Delivery App
-The Grocery Delivery App is a breath of fresh air in a market flooded with mediocre taxi apps. Custom-created to ensure that it is most suited for the smart entrepreneur of 2020, this app comes loaded with some of the top features that the industry can ask for.
+The Grocery Delivery App is a breath of fresh air in a market flooded with mediocre taxi apps. Custom-created to ensure that it is most suited for the smart entrepreneur, this app comes loaded with some of the top features that the industry can ask for.
 
 Our Grocery Delivery App is fitted with many advanced features curated by expert market behavior and business analysts and developed by expert Android, iOS, and PHP developers. 
 
